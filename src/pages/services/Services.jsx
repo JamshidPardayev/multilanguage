@@ -11,7 +11,7 @@ const Services = () => {
           {t("serviceName")}
         </h2>
         <div className="flex justify-between my-[40px] gap-x-3 gap-y-10 max-sm:flex-col">
-          <div className="max-w-[261px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="zoom-in" className="max-w-[261px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./serviceImg1.png"
               alt="servicesImg"
@@ -25,7 +25,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="max-w-[375px] text-center text-white mx-auto">
+          <div data-aos="zoom-in" className="max-w-[375px] text-center text-white mx-auto">
             <img
               src="./serviceImg2.png"
               alt="servicesImg"
@@ -39,7 +39,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="max-w-[288px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="zoom-in" className="max-w-[288px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./serviceImg3.png"
               alt="servicesImg"
@@ -54,7 +54,7 @@ const Services = () => {
           </div>
         </div>
         <div className="flex justify-evenly gap-x-5 gap-y-10 max-sm:flex-col max-sm:justify-center">
-          <div className="max-w-[354px] text-center text-white max-sm:mx-auto">
+          <div data-aos="zoom-in" className="max-w-[354px] text-center text-white max-sm:mx-auto">
             <img
               src="./serviceImg4.png"
               alt="servicesImg"
@@ -68,7 +68,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="max-w-[302px] text-center text-white max-sm:mx-auto">
+          <div data-aos="zoom-in" className="max-w-[302px] text-center text-white max-sm:mx-auto">
             <img
               src="./serviceImg5.png"
               alt="servicesImg"

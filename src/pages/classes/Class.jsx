@@ -1,8 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useTranslation } from "react-i18next";
+import AOS from "aos"
 
 const Class = () => {
   const { t } = useTranslation();
+   useEffect(() => {
+        AOS.init({
+          duration: 2000,
+        });
+      }, []);
   return (
     <div className="bg-gray-100 py-[60px]" id="classes">
       <div className="max-w-[1200px] mx-auto px-3">
@@ -10,7 +16,7 @@ const Class = () => {
           {t("classesName")}
         </h2>
         <div className="flex justify-between my-[40px] gap-x-3 gap-y-10 max-sm:flex-col">
-          <div className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="flip-left" className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./classImg1.png"
               alt="classImg"
@@ -25,7 +31,7 @@ const Class = () => {
               {t("classesButton")}
             </button>
           </div>
-          <div className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="flip-left" className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./classImg2.png"
               alt="classImg"
@@ -41,7 +47,7 @@ const Class = () => {
             </button>
           </div>
 
-          <div className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="flip-left" className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./classImg3.png"
               alt="classImg"
@@ -58,7 +64,7 @@ const Class = () => {
           </div>
         </div>
         <div className="flex justify-evenly gap-x-5 gap-y-10 max-sm:flex-col max-sm:justify-center">
-          <div className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="flip-left" className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./classImg4.png"
               alt="classImg"
@@ -74,7 +80,7 @@ const Class = () => {
             </button>
           </div>
 
-          <div className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
+          <div data-aos="flip-left" className="max-w-[310px] bg-[#5855E7] rounded-[15px] p-[20px] min-w-[190px] text-center text-white mx-auto">
             <img
               src="./classImg5.png"
               alt="classImg"

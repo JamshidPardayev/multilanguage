@@ -1,10 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Trans, useTranslation } from "react-i18next";
 import AOS from "aos";
 
 const Hero = () => {
   const { t } = useTranslation();
-
+  useEffect(() => {
+    AOS.init({
+      duration: 3000,
+    });
+  }, []);
   return (
     <div className="bg-gray-100">
       <div className="max-w-[1200px] mx-auto px-3 min-h-[442px] overflow-hidden  flex justify-between max-md:justify-center items-center max-md:min-h-[442px]">
