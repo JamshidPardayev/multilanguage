@@ -102,7 +102,7 @@ const Header = () => {
           <ul className="text-2xl space-y-6 text-center font-semibold">
             <li>
               <a
-                href="/home"
+                href="#about"
                 onClick={() => setIsMenuOpen(false)}
                 className="relative before:absolute before:left-0 before:bottom-[-3px] before:h-[2px] before:bg-gray-300 before:w-[0%] hover:before:w-[100%] duration-300 before:duration-300"
               >
@@ -111,7 +111,7 @@ const Header = () => {
             </li>
             <li>
               <a
-                href="/about"
+                href="#services"
                 onClick={() => setIsMenuOpen(false)}
                 className="relative before:absolute before:left-0 before:bottom-[-3px] before:h-[2px] before:bg-gray-300 before:w-[0%] hover:before:w-[100%] duration-300 before:duration-300"
               >
@@ -120,7 +120,7 @@ const Header = () => {
             </li>
             <li>
               <a
-                href="/contact"
+                href="#classes"
                 onClick={() => setIsMenuOpen(false)}
                 className="relative before:absolute before:left-0 before:bottom-[-3px] before:h-[2px] before:bg-gray-300 before:w-[0%] hover:before:w-[100%] duration-300 before:duration-300"
               >
@@ -129,7 +129,7 @@ const Header = () => {
             </li>
             <li>
               <a
-                href="/services"
+                href="#contact"
                 onClick={() => setIsMenuOpen(false)}
                 className="relative before:absolute before:left-0 before:bottom-[-3px] before:h-[2px] before:bg-gray-300 before:w-[0%] hover:before:w-[100%] duration-300 before:duration-300"
               >
