@@ -8,9 +8,61 @@
   "flag": "/uzb.png",
   "navButton": "Biz bn bog'laning",
 
-  
   "heroTitle": "<0>The Best Future Stars</0> - biz farzandingiz kelajagi haqida qayg‘uramiz",
   "heroDescription": "Tajribali o‘qituvchilarimiz o‘quv jarayonini farzandingiz uchun maksimal darajada qiziqarli va samarali qiladi",
-  "heroButton1": "Qo‘ng‘iroq qilish",
-  "heroButton2": "Batafsil"
+  "heroButton1": "Qo‘ng‘iroq",
+  "heroButton2": "Batafsil",
+
+  "aboutTitle": "Biz haqimizda",
+  "aboutDescription": "Qulay ta'lim va vaqtni mazmunli o'tkazish uchun biz bolalarni yosh toifalari hamda ta'lim yo'nalishlariga qarab kichik va qulay guruhlarga ajratamiz. Har bir bola uchun individual yondashuv: sinfda 10 nafardan ortiq o'quvchi bo'lmaydi. Ingliz tilini chuqurlashtirilgan tarzda o'rganish. Bundan tashqari, bolalarimizni xorijga til amaliyotiga yuboramiz. Darslar 8:00 dan 17:00 gacha davom etadi. Kuniga 3 mahal muvozanatli ovqatlanish (xohishga ko‘ra), uy vazifalarini bajarish.",
+  "aboutSection": "Farzandlaringiz uchun barcha sharoitlar va qulayliklar yaratilgan!",
+
+  "serviceName": "Bizning Hizmatlarimiz",
+  "servicesCartTitle1": "3 mahal ovqatlanish",
+  "servicesCartDesc1": "Biz bolalarni murakkab matematik hisob-kitoblarni tezda yodda bajarishni o‘rgatamiz",
+
+  "servicesCartTitle2": "IT texnologiyalar",
+  "servicesCartDesc2": "Maktabimizda qulay muhit yaratish uchun biz kuniga 3 mahal mazali va foydali taom tayyorlaymiz",
+
+  "servicesCartTitle3": "Mental arifmetika",
+  "servicesCartDesc3": "21-asr — bu axborot texnologiyalari asri. Farzandingiz dasturlash asoslari, gadjetlar olami va kelajak kasblari bilan tanishadi",
+
+  "servicesCartTitle4": "Ingliz tilida muloqot",
+  "servicesCartDesc4": "Ingliz tilida bemalol muloqot qilish uchun bizda butun kunlik Speaking kunlari mavjud",
+
+  "servicesCartTitle5": "Chet tillari",
+  "servicesCartDesc5": "Bizning yuqori malakali o‘qituvchilar bolalarga ingliz, rus, arab va xitoy tillarini o‘rgatadi",
+
+  "classesName": "Sinf bosqichlari",
+  "classesButton": "Ro'yxatdan o'tish",
+
+  "classesNumber1": "1-sinflar",
+  "classesAge1": "6-7 yosh",
+  "classesDesc1": "Kalligrafiya o‘rganish, logopediya, inglizcha etiketi, ingliz tilida suhbat, umumiy fanlar va sport mashg‘ulotlari",
+
+  "classesNumber2": "2-sinflar",
+  "classesAge2": "7-8 yosh",
+  "classesDesc2": "Ingliz tili 1-daraja, xitoy tili, arifmetika, mantiqiy fikrlash, umumiy fanlar va sport mashg‘ulotlari",
+
+  "classesNumber3": "3-sinflar",
+  "classesAge3": "8-9 yosh",
+  "classesDesc3": "Ingliz tili 2-daraja, arab tili, psixologiya, mental arifmetika, IT texnologiyalar, umumiy fanlar va sport mashg‘ulotlari",
+
+  "classesNumber4": "4-sinflar",
+  "classesAge4": "9-10 yosh",
+  "classesDesc4": "Ingliz tili 3-daraja, fransuz va nemis tillari, IT texnologiyalar, umumiy fanlar va sport mashg‘ulotlari",
+
+  "classesNumber5": "0-sinflar",
+  "classesAge5": "4-5 yosh",
+  "classesDesc5": "Kalligrafiya o‘rganish, logopediya, inglizcha etiketi, ingliz tilida suhbat, umumiy fanlar va sport mashg‘ulotlari",
+
+
+
+
+
+
+
+
+  "footerContact": "Aloqa:",
+"footerIcons": "Biz bilan bog'laning:"
 }

@@ -8,9 +8,59 @@
   "flag": "/eng.png",
   "navButton": "Contact Us",
 
-  
   "heroTitle": "<0>The Best Future Stars</0> - we care about your child's future",
   "heroDescription": "Our experienced teachers make the learning process as engaging and effective as possible for your child",
   "heroButton1": "Call now",
-  "heroButton2": "Learn more"
+  "heroButton2": "Learn more",
+
+  "aboutTitle": "About Us",
+  "aboutDescription": "For a comfortable education and quality time, we group children into small, cozy classes based on age and educational direction. We provide an individual approach to each child: no more than 10 students per class. In-depth English language learning. In addition, we send our children abroad for language practice. Classes run from 8:00 AM to 5:00 PM. Three balanced meals a day (optional), assistance with homework. ",
+  "aboutSection": "All the conditions and comfort your children need!",
+
+  "serviceName": "Our Services",
+  "servicesCartTitle1": "Three Meals a Day",
+  "servicesCartDesc1": "We teach children to quickly perform complex math calculations in their minds",
+
+  "servicesCartTitle2": "IT Technologies",
+  "servicesCartDesc2": "To ensure a comfortable environment, we provide delicious and healthy meals three times a day",
+
+  "servicesCartTitle3": "Mental Arithmetic",
+  "servicesCartDesc3": "The 21st century is the era of information technology. Your child will learn the basics of programming, gadget trends, and future professions",
+
+  "servicesCartTitle4": "English Speaking Practice",
+  "servicesCartDesc4": "To help children speak English fluently, we dedicate an entire day to speaking activities",
+
+  "servicesCartTitle5": "Foreign Languages",
+  "servicesCartDesc5": "Our highly qualified teachers will teach children English, Russian, Arabic, and Chinese",
+
+  "classesName": "Classes",
+  "classesButton": "Enroll now",
+
+  "classesNumber1": "Grade 1",
+  "classesAge1": "6-7 years old",
+  "classesDesc1": "Calligraphy learning, speech therapy, English etiquette, spoken English, general education subjects, and sports activities",
+
+  "classesNumber2": "Grade 2",
+  "classesAge2": "7-8 years old",
+  "classesDesc2": "English Step 1, Chinese language, arithmetic, logical thinking, general education subjects, and sports activities",
+
+  "classesNumber3": "Grade 3",
+  "classesAge3": "8-9 years old",
+  "classesDesc3": "English Step 2, Arabic language, psychology, mental arithmetic, IT technologies, general education subjects, and sports activities",
+
+  "classesNumber4": "Grade 4",
+  "classesAge4": "9-10 years old",
+  "classesDesc4": "English Step 3, French and German languages, IT technologies, general education subjects, and sports activities",
+
+  "classesNumber5": "Pre-school",
+  "classesAge5": "4-5 years old",
+  "classesDesc5": "Calligraphy learning, speech therapy, English etiquette, spoken English, general education subjects, and sports activities",
+
+
+
+
+
+  
+  "footerContact": "Contacts:",
+  "footerIcons": "Stay with us:"
 }
