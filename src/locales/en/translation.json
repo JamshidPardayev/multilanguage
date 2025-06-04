@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "nav1": "About Us",
+    "nav2": "Services",
+    "nav3": "Classes",
+    "nav4": "Contacts"
+  },
+  "flag": "/eng.png",
+  "navButton": "Contact Us",
+
+  
+  "heroTitle": "<0>The Best Future Stars</0> - we care about your child's future",
+  "heroDescription": "Our experienced teachers make the learning process as engaging and effective as possible for your child",
+  "heroButton1": "Call now",
+  "heroButton2": "Learn more"
+}

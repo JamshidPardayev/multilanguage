@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "nav1": "Biz Haqimizda",
+    "nav2": "Hizmatlar",
+    "nav3": "Sinflar",
+    "nav4": "Aloqa"
+  },
+  "flag": "/uzb.png",
+  "navButton": "Biz bn bog'laning",
+
+  
+  "heroTitle": "<0>The Best Future Stars</0> - biz farzandingiz kelajagi haqida qayg‘uramiz",
+  "heroDescription": "Tajribali o‘qituvchilarimiz o‘quv jarayonini farzandingiz uchun maksimal darajada qiziqarli va samarali qiladi",
+  "heroButton1": "Qo‘ng‘iroq qilish",
+  "heroButton2": "Batafsil"
+}
