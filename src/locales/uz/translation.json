@@ -56,13 +56,17 @@
   "classesAge5": "4-5 yosh",
   "classesDesc5": "Kalligrafiya o‘rganish, logopediya, inglizcha etiketi, ingliz tilida suhbat, umumiy fanlar va sport mashg‘ulotlari",
 
-
-
-
-
-
-
+  "contactName": "Biz bilan bog‘laning",
+  "contactTitle": "Aloqa",
+  "contactAddress": "Toshkent shahri, Chilonzor tumani, 16-kvartal, Botirma ko‘chasi",
+  "contactNumber": "+998971970771 (Dush.–Jum. 09:00–17:00)",
+  "contactTitle1": "Ariza qoldiring",
+  "contactDesc": "Maktabimiz ochilishi munosabati bilan 20% chegirma taqdim etamiz",
+  "contactNamePl": "Ism",
+  "contactSurnamePl": "Familiya",
+  "contactNmPl": "Telefon raqami",
+  "contactButton": "Yuborish",
 
   "footerContact": "Aloqa:",
-"footerIcons": "Biz bilan bog'laning:"
+  "footerIcons": "Biz bilan bog'laning:"
 }

@@ -7,7 +7,7 @@ import { PiTelegramLogo } from "react-icons/pi";
 const Footer = () => {
   const { t } = useTranslation();
   return (
-    <div id="footer" className="min-h-[160px] mt-3 bg-[#5855E7]">
+    <div id="footer" className="min-h-[160px] bg-[#5855E7]">
       <div className="max-w-[1200px] mx-auto px-3 py-7  flex justify-between gap-5 flex-wrap items-center min-h-[160px]">
         <img src="./logo.svg" alt="logo" />
         <div className="text-white">

@@ -56,11 +56,16 @@
   "classesAge5": "4-5 years old",
   "classesDesc5": "Calligraphy learning, speech therapy, English etiquette, spoken English, general education subjects, and sports activities",
 
-
-
-
-
-  
+  "contactName": "Contact Us",
+  "contactTitle": "Contacts",
+  "contactAddress": "Tashkent, Chilanzar district, 16th quarter, Botirma street",
+  "contactNumber": "+998971970771 (Mon–Fri, 09:00–17:00)",
+"contactTitle1": "Leave a Request",
+  "contactDesc": "In honor of our school opening, we’re offering a 20% discount",
+  "contactNamePl": "First Name",
+  "contactSurnamePl": "Last Name",
+  "contactNmPl": "Phone Number",
+  "contactButton": "Send",
   "footerContact": "Contacts:",
   "footerIcons": "Stay with us:"
 }
